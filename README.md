@@ -1,12 +1,13 @@
 
-##### Folder **"Netcat_1/"**  : 
+## Folder **" Netcat_1/ "**  : 
 
 - Contains Nectcat Binary with Options **-e** enabled.
 
 ![image](https://user-images.githubusercontent.com/98208035/221361210-1c6e868d-b976-498d-bf32-542a42a99933.png)
 
 - - -
-##### Folder **"Netcat_2/"** : 
+
+## Folder **" Netcat_2/ "** : 
 
 - Contains Netcat binary without Option **-e**. 
 
